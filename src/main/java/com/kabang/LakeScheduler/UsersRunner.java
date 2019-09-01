@@ -1,7 +1,7 @@
 package com.kabang.LakeScheduler;
 
 import com.kabang.LakeScheduler.domain.Users;
-import com.kabang.LakeScheduler.entity.UsersRepository;
+import com.kabang.LakeScheduler.repository.UsersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.ApplicationArguments;

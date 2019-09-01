@@ -1,4 +1,4 @@
-package com.kabang.LakeScheduler.entity;
+package com.kabang.LakeScheduler.repository;
 
 import com.kabang.LakeScheduler.domain.Users;
 import org.springframework.data.jpa.repository.JpaRepository;
